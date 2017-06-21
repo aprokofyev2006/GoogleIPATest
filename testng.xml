@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG-Suite">
+
+<!--
+<listeners>
+        <listener class-name="utilitiesIPA.AnnotationTransformer"/>
+  </listeners>
+
+-->
+<test name="TestNG - Chrome Test">
+
+		<packages>			 
+			 <package name="apitestrest"/>  
+		</packages>
+<!-- 		
+		<classes>
+			<class name="apitestrest.basics"/>			
+		</classes>
+		-->
+		</test>
+</suite>
