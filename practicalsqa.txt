@@ -1,0 +1,33 @@
+Tsks:
+1. Inventory of courses and pages and vebinars
+2. One page summary to be given to new students
+3. Test design
+4. Test cases
+
+TEST DESIGN
+1. Home
+2. Brainteasers
+3. Forums
+4. Classes
+5. Class materials
+	5.1 Selenium materials
+	5.2 Black box Materials
+		5.2.1 Selenium Class Materials
+		5.2.2 Selenium Video
+6. Contact me
+	Case 1. Correct "Skype" addres is provided
+	Case 2. Correct email info is provided
+	Case 3. Sending a request using the "Leave a Reply" form
+
+Bug reports:
+#1. Header "Class materials" Replace "Black Box" with "Manual Testing" 
+#2. Header "Class materials" Replace "Selenium materials" with "Selenium"
+#3. Header: Replace "Contact me" with "Contact us"
+
+
+Three areas for consistency check on  a page
+ - link title = Black box testing videos
+  - target page url = /mobile-class-video/
+  - target page header = Mobile Testing(video)
+  
+  
